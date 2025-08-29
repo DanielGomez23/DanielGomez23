@@ -6,21 +6,38 @@
 <h2 align="left" >Technologies & Tools</h2>
 
 <h3>Backend</h3>
+<a href="" target="_blank">
 <img src="img/python-original.svg" width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/javascript-original.svg"width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/php-original.svg"width="50" height="50">
+</a>
 
 <h3>Bases de datos</h3>
+<a href="" target="_blank">
 <img src="img/mysql-original-wordmark.svg"width="50" height="50">
+</a>
 
 <h3>Frontend y herramientas</h3>
 <img src="img/bootstrap-original-wordmark.svg"width="50" height="50">
+<a href="" target="_blank">
 <img src="img/css3-original.svg"width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/html5-original.svg"width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/vscode-original.svg"width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/git-original.svg"width="50" height="50">
+</a>
+<a href="" target="_blank">
 <img src="img/github-original.svg"width="50" height="50">
-
+</a>
 
 
 <a target="_blank" align="center">
