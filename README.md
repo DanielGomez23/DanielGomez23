@@ -10,6 +10,8 @@
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
+## About me
+
 - 🔭 I’m currently working in <a href="https://asincode.co/" target="blank">Asincode</a>
 
 - 🤝 I’m available for freelancing.
