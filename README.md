@@ -22,7 +22,9 @@
 </a>
 
 <h3>Frontend y herramientas</h3>
+<a href="" target="_blank">
 <img src="img/bootstrap-original-wordmark.svg"width="50" height="50">
+</a>
 <a href="" target="_blank">
 <img src="img/css3-original.svg"width="50" height="50">
 </a>
