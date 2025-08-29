@@ -2,9 +2,9 @@
 <h3 align="center">👨‍💻 Estudiante de Sistemas | 💻 Desarrollador | 🚀 Apasionado por aprender | 🌱 Afrontar desafíos | 🛠️ Construir soluciones tecnológicas
 🔍 Siempre en busca de mejorar 📈 | 🌟 Crecimiento profesional continuo | 🤝 Disfruto colaborar en equipo | 💡 Crear soluciones innovadoras y eficientes ✨
 </h3>
-
-
-<p align="left"> <a href="https://twitter.com/100rabhcsmc" target="blank"><img src="https://img.shields.io/twitter/follow/100rabhcsmc?logo=twitter&style=for-the-badge" alt="100rabhcsmc" /></a> </p>
+	
+<br>
+<br>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="250" width="350" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
