@@ -6,7 +6,6 @@
 <h2 align="left" >Technologies & Tools</h2>
 
 <h3>Backend</h3>
-
 <img src="img/python-original.svg" width="50" height="50">
 <img src="img/javascript-original.svg"width="50" height="50">
 <img src="img/php-original.svg"width="50" height="50">
