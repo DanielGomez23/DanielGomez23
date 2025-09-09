@@ -61,6 +61,7 @@
 <div align="center">
 
 ![Daniel GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielGomez23&show_icons=true&theme=radical)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielGomez23&layout=compact&theme=radical)
 
 </div>
