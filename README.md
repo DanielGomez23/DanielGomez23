@@ -40,12 +40,11 @@
 <img src="img/github-original.svg"width="50" height="50">
 </a>
 
+<h2 align="left">About me</h2>
 
 <a target="_blank" align="center">
   <img align="right" top="800" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-<h2 align="left" >About me</h2>
 
 - 🔭 I’m currently working in <a href="https://asincode.co/" target="blank">Asincode</a>
 
