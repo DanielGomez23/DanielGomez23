@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Daniel
-<h3 align="center">👨‍💻 Estudiante de Sistemas | 💻 Desarrollador | 🚀 Apasionado por aprender | 🌱 Afrontar desafíos | 🛠️ Construir soluciones tecnológicas
-🔍 Siempre en busca de mejorar 📈 | 🌟 Crecimiento profesional continuo | 🤝 Disfruto colaborar en equipo | 💡 Crear soluciones innovadoras y eficientes ✨
+<h3 align="center">Systems Student | Developer | Passionate about learning | Building technological solutions |	Continuous professional growth | Enjoy collaborating with teams | Creating innovative and efficient solutions 👨‍💻
 </h3>
 
 <h2 align="left" >Technologies & Tools</h2>
@@ -16,12 +15,12 @@
 <img src="img/php-original.svg"width="50" height="50">
 </a>
 
-<h3>Bases de datos</h3>
+<h3>Database</h3>
 <a href="" target="_blank">
 <img src="img/mysql-original-wordmark.svg"width="50" height="50">
 </a>
 
-<h3>Frontend y herramientas</h3>
+<h3>Frontend y tools</h3>
 <a href="" target="_blank">
 <img src="img/bootstrap-original-wordmark.svg"width="50" height="50">
 </a>
@@ -71,9 +70,9 @@
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/_.da_ni._/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/DaNi_MagiK">
 			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UC-ZdNkKNHC6KguDqNFKO2Nw?view_as=subscriber">
+		<a style="margin-left: 10px;" target="_blank" href="https://youtube.com/@dani_magic?si=Hk3L49Ka5d7WNS-2">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 
