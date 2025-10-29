@@ -9,7 +9,7 @@
 <img src="img/python-original.svg" width="50" height="50">
 </a>
 <a href="" target="_blank">
-<img src="img/javascript-original.svg"width="50" height="50">
+<img src="img/node.png"width="50" height="50">
 </a>
 <a href="" target="_blank">
 <img src="img/php-original.svg"width="50" height="50">
