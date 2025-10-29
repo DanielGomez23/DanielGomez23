@@ -39,6 +39,9 @@
 <a href="" target="_blank">
 <img src="img/github-original.svg"width="50" height="50">
 </a>
+<a href="" target="_blank">
+<img src="img/Notion-logo.svg"width="50" height="50">
+</a>
 
 <h2 align="left">About me</h2>
 
