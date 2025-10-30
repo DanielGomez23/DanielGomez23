@@ -19,6 +19,9 @@
 <a href="" target="_blank">
 <img src="img/mysql-original-wordmark.svg"width="50" height="50">
 </a>
+<a href="" target="_blank">
+<img src="img/postgresql-logo-.svg"width="50" height="50">
+</a>
 
 <h3>Frontend y tools</h3>
 <a href="" target="_blank">
