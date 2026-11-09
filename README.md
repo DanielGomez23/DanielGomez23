@@ -80,10 +80,9 @@
         <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/daniel-gomez-4713a9352/">
 			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://github.com/DanielGomez23">
-		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
-
+			<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://youtube.com/@dani_magic?si=Hk3L49Ka5d7WNS-2">
-				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+			<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
       </div>
 
 </p>
